@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int a[500],n,i;
+    int a[200],n,i;
     printf("\n Enter size of array : ");
     scanf("%d",&n);
     printf("\n Enter array : ");
